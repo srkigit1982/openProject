@@ -1,1 +1,1 @@
-# openProject
+# openProjec
