@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 proba 5
 novo33
+=======
+proba 101
+novo
+novo 2
+>>>>>>> 10354d80efa4d8a5b572ef4d0a6c0decc277aef8
